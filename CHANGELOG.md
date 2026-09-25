@@ -2,6 +2,10 @@
 
 Human-readable log of what changed in the onboarding prototype, for product review. Updated at each local commit — most recent first.
 
+## 2026-09-25 — Intro card: lighter blue, softer grade
+
+The three intro card illustrations were graded to a deep navy that swallowed the artwork, so the cards, rays and rings were hard to make out. They now sit on a lighter Malaysia Airlines blue with the glow detail kept, and the fallback wash behind them moved from navy to the same lighter blue (#2B64A6 to #A0CDEE). The white headline still reads cleanly over it. The intro card copy is unchanged.
+
 ## 2026-09-25 — Malaysia Airlines fork
 
 A new fork for Malaysia Airlines, built on the WeWork fork's code (the Google Sheet driven Cosmix build, plus video support and the non-commerce changes). It starts with a clean git history of its own.
